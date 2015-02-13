@@ -1,2 +1,2 @@
 # rb_exercises
-ruby exercises
+various ruby exercises
